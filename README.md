@@ -64,7 +64,6 @@ Jellyfin Web is the frontend used for most of the clients available for end user
    ```sh
    yarn serve
    ```
-
 4. Build the client with sourcemaps available.
 
    ```sh
